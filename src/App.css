@@ -1,0 +1,203 @@
+@font-face {
+  font-family: "zilap";
+  src: url(Font/zilap.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(Font/Montserrat.ttf) format("truetype");
+}
+.company-name {
+  font-family: "zilap", sans-serif;
+}
+.mission-head {
+  font-family: "zilap", sans-serif;
+}
+.get-contact {
+  font-family: "zilap", sans-serif;
+}
+.ceo-name {
+  font-family: "Montserrat", sans-serif;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.section11-backimg {
+  background-image: url("https://eoxysit.com/wp-content/uploads/2022/10/Untitled-21-1.png");
+  background-size: cover;
+  height: 70vh;
+  margin-top: 200px;
+  position: relative;
+}
+.tell-us {
+  position: absolute;
+  background-color: #ffffff;
+  margin-top: -35rem;
+  height: 70vh;
+  width: 95%;
+  margin-left: 2.5%;
+  border-radius: 39px;
+  box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 10%);
+}
+.contact-form {
+  position: absolute;
+  margin-top: -27rem;
+  margin-left: 50rem;
+}
+.contact-btn {
+  background: -webkit-linear-gradient(0deg, #858457 0%, #858457 100%);
+  text-transform: uppercase;
+  border: none;
+}
+.nav-link {
+  color: white;
+}
+
+.operational-sol,
+.tact-help,
+.tt-desp,
+.helipad-btn {
+  font-family: "Montserrat", sans-serif;
+}
+.opr-para {
+  font-family: "Montserrat", sans-serif;
+}
+.opr-li > li {
+  font-family: "Montserrat", sans-serif;
+}
+.opr-feat > li {
+  font-family: "Montserrat", sans-serif;
+}
+@media only screen and (max-width: 600px) {
+  .company-logo {
+    margin-left: 2px !important;
+  }
+  .slider-image {
+    height: 200px !important;
+  }
+  .ceo-name {
+    margin-left: -13rem !important;
+  }
+  .year-exp {
+    margin-left: -4rem !important;
+  }
+  .peak-photo {
+    width: 21rem !important;
+    margin-left: -23.5rem !important;
+    margin-top: 27rem !important;
+  }
+  .cominmg-soon {
+    width: 429px !important;
+  }
+  .flashlight-dtl {
+    margin-left: -11rem !important;
+    margin-top: 12rem;
+  }
+  .flash-lgt {
+    width: 12rem !important;
+  }
+}
+.text-muted {
+  --bs-text-opacity: 1;
+  color: white !important;
+}
+.footer-col {
+  background: #696969;
+}
+.product-head > a {
+  font-family: "Montserrat", sans-serif;
+}
+.misson-font {
+  font-family: "Montserrat", sans-serif;
+}
+.office-address {
+  font-family: "Montserrat", sans-serif;
+}
+.footer-header {
+  font-family: "zilap", sans-serif;
+}
+.social-net > span {
+  font-family: "Montserrat", sans-serif;
+}
+.form-head {
+  font-family: "Montserrat", sans-serif;
+}
+.form-butn {
+  font-family: "Montserrat", sans-serif;
+}
+
+.ak-assc,
+.ak-model,
+.ak-descrip > li,
+.ak-shop-btn {
+  font-family: "Montserrat", sans-serif;
+}
+
+.flash-light,
+.flash-discrip,
+.flh-lgt > li,
+.flsh-btn {
+  font-family: "Montserrat", sans-serif;
+}
+.opre-light,
+.tact-head,
+.tat-descrip > li,
+.tac-btn {
+  font-family: "Montserrat", sans-serif;
+}
+.ther-head,
+.ther-desp,
+.ther-para,
+.term-para > li,
+.therm-btn {
+  font-family: "Montserrat", sans-serif;
+}
+.adhed-head,
+.adhad-para,
+.add-head,
+.add-hd > li,
+.adhed-spec,
+.adhed-btn {
+  font-family: "Montserrat", sans-serif;
+}
+.mp-head,
+.mp-descp,
+.mp-list > li,
+.mounting-btn {
+  font-family: "Montserrat", sans-serif;
+}
